@@ -1,0 +1,13 @@
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\bin\Debug\netcoreapp3.1\Variables Project.exe
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\bin\Debug\netcoreapp3.1\Variables Project.deps.json
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\bin\Debug\netcoreapp3.1\Variables Project.runtimeconfig.json
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\bin\Debug\netcoreapp3.1\Variables Project.runtimeconfig.dev.json
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\bin\Debug\netcoreapp3.1\Variables Project.dll
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\bin\Debug\netcoreapp3.1\Variables Project.pdb
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.csprojAssemblyReference.cache
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.AssemblyInfoInputs.cache
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.AssemblyInfo.cs
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.dll
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.pdb
+C:\Users\space\source\repos\Variables Project\Variables Project\Variables Project\obj\Debug\netcoreapp3.1\Variables Project.genruntimeconfig.cache
